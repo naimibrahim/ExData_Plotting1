@@ -1,5 +1,5 @@
 if (!"load_data.R" %in% list.files()) {
-  setwd("~/Desktop/Online Coursera/Coursera-Exploratory-Data-Analysis/ExData_Plotting1/")
+  setwd("C:/Users/Mohd Naim/Documents/GitHub/ExData_Plotting1")
 } 
 source("load_data.R")
 png(filename = "plot4.png", 
